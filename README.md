@@ -190,7 +190,6 @@ A. Shared Exploration
 ---------------------------------------
 ## PROJECT OUTLINE: THIRD SERIES
 
-PROJECT OUTLINE: THIRD SERIES
 Series Title: Disorder in the Workspace
 
 I. Overview:
